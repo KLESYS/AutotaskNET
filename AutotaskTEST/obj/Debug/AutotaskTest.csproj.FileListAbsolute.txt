@@ -39,3 +39,14 @@ D:\Source\GitHub\AutotaskNET\AutotaskTEST\obj\Debug\AutotaskTEST.csproj.CoreComp
 D:\Source\GitHub\AutotaskNET\AutotaskTEST\obj\Debug\AutotaskTEST.csproj.CopyComplete
 D:\Source\GitHub\AutotaskNET\AutotaskTEST\obj\Debug\AutotaskTEST.exe
 D:\Source\GitHub\AutotaskNET\AutotaskTEST\obj\Debug\AutotaskTEST.pdb
+C:\Users\vanGemmeren\Documents\AutotaskNET\AutotaskTEST\bin\Debug\AutotaskTEST.exe.config
+C:\Users\vanGemmeren\Documents\AutotaskNET\AutotaskTEST\bin\Debug\AutotaskTEST.exe
+C:\Users\vanGemmeren\Documents\AutotaskNET\AutotaskTEST\bin\Debug\AutotaskTEST.pdb
+C:\Users\vanGemmeren\Documents\AutotaskNET\AutotaskTEST\bin\Debug\AutotaskNET.dll
+C:\Users\vanGemmeren\Documents\AutotaskNET\AutotaskTEST\bin\Debug\AutotaskNET.pdb
+C:\Users\vanGemmeren\Documents\AutotaskNET\AutotaskTEST\bin\Debug\AutotaskNET.dll.config
+C:\Users\vanGemmeren\Documents\AutotaskNET\AutotaskTEST\obj\Debug\AutotaskTEST.csprojAssemblyReference.cache
+C:\Users\vanGemmeren\Documents\AutotaskNET\AutotaskTEST\obj\Debug\AutotaskTEST.csproj.CoreCompileInputs.cache
+C:\Users\vanGemmeren\Documents\AutotaskNET\AutotaskTEST\obj\Debug\AutotaskTEST.csproj.CopyComplete
+C:\Users\vanGemmeren\Documents\AutotaskNET\AutotaskTEST\obj\Debug\AutotaskTEST.exe
+C:\Users\vanGemmeren\Documents\AutotaskNET\AutotaskTEST\obj\Debug\AutotaskTEST.pdb
